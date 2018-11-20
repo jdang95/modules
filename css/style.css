@@ -1,5 +1,6 @@
 body{
   background-color: black;
+	text-align:center;
 }
 
 h1{
@@ -7,6 +8,10 @@ h1{
   font-size: 200px;
  
 }
+p{
+	font-size: 100px;
+}
+
 h1 { 
    font-family: 'ConnectionRegular'; 
    font-weight: normal; 
